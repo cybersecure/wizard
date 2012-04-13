@@ -1,0 +1,4 @@
+= Wizard
+
+It just implements the model part of the Ryan Bates Railscasts of multi-step forms
+so that it can be used in multiple places without clutering all the models
