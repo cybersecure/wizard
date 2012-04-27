@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = Wizard::VERSION
   s.authors     = ["Jais Cheema"]
   s.email       = ["jaischeema@gmail.com"]
-  s.homepage    = "git@github.com:jaischeema/wizard.git"
+  s.homepage    = "http://jaischeema.com/wizard"
   s.summary     = "Plugin to implement the wizard from railscasts"
   s.description = "This is the wrapping of Ryan Bates multi form login into a plugin"
 
